@@ -9,7 +9,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 | YDKJ Full Stream  | ❌ | ❌ | ❌ | ❌ | |
 | Split The Room  | ✅ | ✅ | ✅ | ❌ | MisterShaokahn | 
 | Mad City  | ❌ | ❌ | ❌ | ❌ | |
-| Mad City  | ❌ | ❌ | ❌ | ❌ | |
+| Zeeple Dome  | ❌ | ❌ | ❌ | ❌ | |
 | Patently Stupid | ✅ | ✅ | ✅ | ❌ | [Alexis](https://github.com/AlexisL61) |
 
 ✅ Terminé</br>
